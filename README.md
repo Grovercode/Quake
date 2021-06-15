@@ -12,3 +12,4 @@ with custom made animated splash screen and logo.
 
 # Download APK here
 
+https://drive.google.com/file/d/1vLMh51XAEeV0_b-Tqdsi999L87oHnH4v/view?usp=sharing
